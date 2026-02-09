@@ -9,22 +9,21 @@ local entity = {}
 entity.onTrigger = function(player, npc)
     local stock =
     {
-        { xi.item.BRONZE_SWORD,    281, 3 },
-        { xi.item.IRON_SWORD,     8316, 3 },
-        { xi.item.MYTHRIL_SWORD, 35776, 3 },
-        { xi.item.BROADSWORD,    24344, 3 },
-        { xi.item.DEGEN,         10735, 3 },
-        { xi.item.TUCK,          13391, 3 },
-        { xi.item.SAPARA,          814, 3 },
-        { xi.item.SCIMITAR,       4751, 3 },
-        { xi.item.FALCHION,      70720, 3 },
-        { xi.item.XIPHOS,          705, 3 },
-        { xi.item.SPATHA,         1953, 3 },
-        { xi.item.BILBO,          3669, 3 },
+        { xi.item.BRONZE_SWORD,    281},
+        { xi.item.IRON_SWORD,     8316},
+        { xi.item.MYTHRIL_SWORD, 35776},
+        { xi.item.BROADSWORD,    24344},
+        { xi.item.DEGEN,         10735},
+        { xi.item.TUCK,          13391},
+        { xi.item.SAPARA,          814},
+        { xi.item.SCIMITAR,       4751},
+        { xi.item.FALCHION,      70720},
+        { xi.item.XIPHOS,          705},
+        { xi.item.SPATHA,         1953},
+        { xi.item.BILBO,          3669},
     }
 
-    player:showText(npc, zones[xi.zone.BASTOK_MARKETS].text.ZHIKKOM_SHOP_DIALOG)
-    xi.shop.nation(player, stock, xi.nation.BASTOK)
+    xi.shop(player, stock)
 end
 
 return entity
