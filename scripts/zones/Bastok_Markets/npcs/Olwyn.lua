@@ -7,7 +7,6 @@
 local entity = {}
 
 entity.onTrade = function(player, npc, trade)
-    xi.events.harvestFestival.onHalloweenTrade(player, trade, npc)
 end
 
 entity.onTrigger = function(player, npc)
@@ -21,7 +20,7 @@ entity.onTrigger = function(player, npc)
     }
 
     player:showText(npc, zones[xi.zone.BASTOK_MARKETS].text.OLWYN_SHOP_DIALOG)
-    xi.shop.nation(player, stock,)
+    xi.shop(player, stock)
 end
 
 return entity
