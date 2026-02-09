@@ -27,5 +27,7 @@ entity.onTrigger = function(player, npc)
     }
 
     xi.shop.general(player, stock)
+    end
 end
-end
+
+return entity
