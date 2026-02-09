@@ -24,7 +24,7 @@ entity.onTrigger = function(player, npc)
     }
 
     player:showText(npc, zones[xi.zone.BASTOK_MARKETS].text.ZHIKKOM_SHOP_DIALOG)
-    xi.shop.nation(player, stock)
+    xi.shop.general(player, stock)
 end
 
 return entity
