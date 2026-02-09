@@ -1,7 +1,6 @@
 -----------------------------------
 -- Area: Bastok Markets
 --  NPC: Zhikkom
--- !pos -288.669 -10.319 -135.064 235
 -----------------------------------
 ---@type TNpcEntity
 local entity = {}
