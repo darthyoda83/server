@@ -6,6 +6,10 @@
 local entity = {}
 
 entity.onTrigger = function(player, npc)
+    local mJob = player:getMainJob()
+    if
+	mJob == xi.job.THF
+    then
     local stock =
     {
         { xi.item.BRONZE_SWORD,    281 },
@@ -24,5 +28,4 @@ entity.onTrigger = function(player, npc)
 
     xi.shop.general(player, stock)
 end
-
-return entity
+end
