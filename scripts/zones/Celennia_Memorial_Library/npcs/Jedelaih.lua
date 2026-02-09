@@ -12,18 +12,13 @@ entity.onTrigger = function(player, npc)
     then
     local stock =
     {
-        { xi.item.BRONZE_SWORD,    281 },
-        { xi.item.IRON_SWORD,     8316 },
-        { xi.item.MYTHRIL_SWORD, 35776 },
-        { xi.item.BROADSWORD,    24344 },
-        { xi.item.DEGEN,         10735 },
-        { xi.item.TUCK,          13391 },
-        { xi.item.SAPARA,          814 },
-        { xi.item.SCIMITAR,       4751 },
-        { xi.item.FALCHION,      70720 },
-        { xi.item.XIPHOS,          705 },
-        { xi.item.SPATHA,         1953 },
-        { xi.item.BILBO,          3669 },
+            {11993,35000}, -- Rogue's Torque
+			{16764,35000}, -- Marauder's Knife
+			{12514,45000}, -- Rogue's Bonnet
+			{12643,45000}, -- Rogue's Vest
+			{13966,45000}, -- Rogue's Armlets
+			{14219,45000}, -- Rogue's Culottes
+			{14094,45000}, -- Rogue's Poulaines
     }
 
     xi.shop.general(player, stock)
