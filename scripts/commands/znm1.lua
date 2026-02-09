@@ -7,14 +7,14 @@ local commandObj = {}
 
 commandObj.cmdprops =
 {
-    permission = 1,
+    permission = 0,
     parameters = ''
 }
 
 commandObj.onTrigger = function(player)
     local stock =
     {
-        2580,    10000, --  Hellcage Butterfly
+    2580,    10000, --  Hellcage Butterfly
 	2590,    10000, --   Shadeleaf
 	2600,    10000, --   Golden Teeth
 	2581,    10000, --   Floral Nectar
