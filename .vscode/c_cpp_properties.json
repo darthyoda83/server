@@ -4,9 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/ext/**",
-                "${workspaceFolder}/src/**",
-                "${workspaceFolder}/build/_deps/**",
-                "${workspaceFolder}/build/generated/**"
+                "${workspaceFolder}/src/**"
             ],
             "defines": [],
             "cStandard":"c23",
@@ -17,9 +15,7 @@
             "name": "OSX",
             "includePath": [
                 "${workspaceFolder}/ext/**",
-                "${workspaceFolder}/src/**",
-                "${workspaceFolder}/build/_deps/**",
-                "${workspaceFolder}/build/generated/**"
+                "${workspaceFolder}/src/**"
             ],
             "defines": [],
             "cStandard":"c23",
@@ -31,9 +27,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/ext/**",
-                "${workspaceFolder}/src/**",
-                "${workspaceFolder}/build/_deps/**",
-                "${workspaceFolder}/build/generated/**"
+                "${workspaceFolder}/src/**"
             ],
             "defines": [],
             "cStandard":"c23",
@@ -43,4 +37,4 @@
         }
     ],
     "version": 4
-}
+    }
