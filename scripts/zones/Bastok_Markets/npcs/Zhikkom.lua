@@ -23,7 +23,6 @@ entity.onTrigger = function(player, npc)
         { xi.item.BILBO,          3669 },
     }
 
-    player:showText(npc, zones[xi.zone.BASTOK_MARKETS].text.ZHIKKOM_SHOP_DIALOG)
     xi.shop.general(player, stock)
 end
 
