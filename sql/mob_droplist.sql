@@ -3338,8 +3338,6 @@ INSERT INTO `mob_droplist` VALUES (356,0,0,1000,2498,@RARE);     -- Briareus's S
 -- ZoneID: 177 - Brigandish Blade
 INSERT INTO `mob_droplist` VALUES (357,0,0,1000,1420,@ALWAYS);  -- Gem Of The South (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (357,0,0,1000,1420,@COMMON);  -- Gem Of The South (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (357,0,0,1000,1441,@VCOMMON); -- Libation Abjuration (Very Common, 24%)
-INSERT INTO `mob_droplist` VALUES (357,2,0,1000,17622,0);       -- Buccaneers Knife (Steal)
 
 -- ZoneID: 124 - Bright-Handed Kunberry
 INSERT INTO `mob_droplist` VALUES (358,0,0,1000,15468,@VCOMMON); -- Resentment Cape (Very Common, 24%)
@@ -5632,9 +5630,7 @@ INSERT INTO `mob_droplist` VALUES (637,0,0,1000,11531,@COMMON); -- Fidelity Mant
 
 -- ZoneID: 130 - Despot
 INSERT INTO `mob_droplist` VALUES (638,0,0,1000,1422,@ALWAYS);    -- Gem Of The West (Always, 100%)
-INSERT INTO `mob_droplist` VALUES (638,0,0,1000,1442,@VCOMMON);   -- Oblation Abjuration (Very Common, 24%)
 INSERT INTO `mob_droplist` VALUES (638,0,0,1000,1422,@COMMON);    -- Gem Of The West (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (638,0,0,1000,18044,@UNCOMMON); -- Scarecrow Scythe (Uncommon, 10%)
 
 -- ZoneID: 177 - Detector
 INSERT INTO `mob_droplist` VALUES (639,0,0,1000,1060,@RARE); -- Velugannon Coffer Key (Rare, 5%)
@@ -18651,7 +18647,6 @@ INSERT INTO `mob_droplist` VALUES (2325,4,0,1000,894,0);         -- Beetle Jaw (
 -- ZoneID: 177 - Steam Cleaner
 INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,1418,@ALWAYS);    -- Gem Of The East (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,1418,@COMMON);    -- Gem Of The East (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,17511,@UNCOMMON); -- Indra Katars (Uncommon, 10%)
 
 -- ZoneID: 191 - Steam Lizard
 INSERT INTO `mob_droplist` VALUES (2327,0,0,1000,926,@COMMON);    -- Lizard Tail (Common, 15%)
@@ -23643,8 +23638,6 @@ INSERT INTO `mob_droplist` VALUES (2799,0,0,1000,18390,@COMMON);   -- Templar Ha
 -- ZoneID: 177 - Zipacna
 INSERT INTO `mob_droplist` VALUES (2800,0,0,1000,1424,@ALWAYS);    -- Gem Of The North (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (2800,0,0,1000,1424,@COMMON);    -- Gem Of The North (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2800,0,0,1000,1442,@COMMON);    -- Oblation Abjuration (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2800,0,0,1000,17804,@UNCOMMON); -- Ushikirimaru (Uncommon, 10%)
 
 -- ZoneID:  25 - Ziphius
 INSERT INTO `mob_droplist` VALUES (2801,0,0,1000,14807,@COMMON); -- Hospitaler Earring (Common, 15%)
@@ -23794,21 +23787,14 @@ INSERT INTO `mob_droplist` VALUES (2820,0,0,1000,17774,@UNCOMMON); -- Shiranui (
 -- ZoneID: 178 - Faust
 INSERT INTO `mob_droplist` VALUES (2821,0,0,1000,1421,@ALWAYS);    -- Summerstone (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (2821,0,0,1000,1421,@COMMON);    -- Summerstone (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2821,0,0,1000,1442,@COMMON);    -- Oblation Abjuration (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2821,0,0,1000,16838,@UNCOMMON); -- Tonbo-Giri (Uncommon, 10%)
 
 -- ZoneID: 178 - Ullikummi
 INSERT INTO `mob_droplist` VALUES (2822,0,0,1000,1423,@ALWAYS);    -- Autumnstone (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (2822,0,0,1000,1423,@COMMON);    -- Autumnstone (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2822,0,0,1000,1442,@COMMON);    -- Oblation Abjuration (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2822,0,0,1000,18199,@UNCOMMON); -- Ulfhedinn Axe (Uncommon, 10%)
 
 -- ZoneID: 178 - Olla Grande
 INSERT INTO `mob_droplist` VALUES (2823,0,0,1000,1425,@ALWAYS);    -- Winterstone (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (2823,0,0,1000,1425,@COMMON);    -- Winterstone (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2823,0,0,1000,1441,@COMMON);    -- Libation Abjuration (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2823,0,0,1000,16956,@UNCOMMON); -- Skofnung (Uncommon, 10%)
-INSERT INTO `mob_droplist` VALUES (2823,0,0,1000,1445,@RARE);      -- Freyas Tear (Rare, 5%)
 
 -- ZoneID: 178 - Aura Statue
 INSERT INTO `mob_droplist` VALUES (2824,0,0,1000,644,@UNCOMMON); -- Chunk Of Mythril Ore (Uncommon, 10%)
