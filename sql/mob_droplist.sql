@@ -18651,9 +18651,7 @@ INSERT INTO `mob_droplist` VALUES (2325,4,0,1000,894,0);         -- Beetle Jaw (
 -- ZoneID: 177 - Steam Cleaner
 INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,1418,@ALWAYS);    -- Gem Of The East (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,1418,@COMMON);    -- Gem Of The East (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,1441,@COMMON);    -- Libation Abjuration (Common, 15%)
 INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,17511,@UNCOMMON); -- Indra Katars (Uncommon, 10%)
-INSERT INTO `mob_droplist` VALUES (2326,0,0,1000,1445,@RARE);      -- Freyas Tear (Rare, 5%)
 
 -- ZoneID: 191 - Steam Lizard
 INSERT INTO `mob_droplist` VALUES (2327,0,0,1000,926,@COMMON);    -- Lizard Tail (Common, 15%)
