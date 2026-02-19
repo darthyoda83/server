@@ -1434,8 +1434,6 @@ INSERT INTO `fishing_group` VALUES (133,5453,1000,290,7);  -- Istakoz
 INSERT INTO `fishing_group` VALUES (133,5454,400,230,6);   -- Mercanbaligi
 INSERT INTO `fishing_group` VALUES (133,5455,500,115,3);   -- Ahtapot
 INSERT INTO `fishing_group` VALUES (133,5456,850,275,6);   -- Istiridye
-INSERT INTO `fishing_group` VALUES (133,14117,500,300,9);  -- Rusty Leggings
-INSERT INTO `fishing_group` VALUES (133,14242,500,300,9);  -- Rusty Subligar
 
 -- Talacca Cove, Whole Zone
 
