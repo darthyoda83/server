@@ -240,9 +240,7 @@ xi.fishing.catchData =
     [xi.item.RUSTY_BUCKET            ] = {   1, 19, 13,  2,   1,   1, 10, false, 0, xi.questLog.NONE,       255, 0,  9, 1, 1,  0, false, 0, true,  1,  900, xi.ki.NONE,           '', 0, false, 0, false },
     [xi.item.RUSTY_CAP               ] = {  30, 38, 13,  2,   1,   1,  5, false, 0, xi.questLog.NONE,       255, 0,  9, 7, 1,  0, false, 0, true,  1,  800, xi.ki.NONE,           '', 0, false, 0, false },
     [xi.item.RUSTY_GREATSWORD        ] = {  60, 57, 13,  2,   1,   1,  5, false, 0, xi.questLog.NONE,       255, 0,  8, 0, 0,  0, false, 0, true,  1,  400, xi.ki.NONE,           '', 0, false, 0, false },
-    [xi.item.RUSTY_LEGGINGS          ] = {   7, 26, 13,  2,   1,   1, 18, false, 0, xi.questLog.NONE,       255, 0,  9, 2, 0,  0, false, 0, true,  1,  500, xi.ki.NONE,           '', 0, false, 0, false },
     [xi.item.RUSTY_PICK              ] = {  40, 47, 13,  2,   1,   1,  5, false, 0, xi.questLog.NONE,       255, 0,  8, 2, 1,  0, false, 0, true,  1,  400, xi.ki.NONE,           '', 0, false, 0, false },
-    [xi.item.RUSTY_SUBLIGAR          ] = {   5, 22, 13,  2,   1,   1,  5, false, 0, xi.questLog.NONE,       255, 0,  8, 2, 0,  0, false, 0, true,  1,  500, xi.ki.NONE,           '', 0, false, 0, false },
     [xi.item.SILVER_RING             ] = {  34, 40, 13,  2,   1,   1,  5, false, 0, xi.questLog.NONE,       255, 0,  1, 0, 0,  0, false, 0, true,  1,  300, xi.ki.NONE,           '', 0, false, 0, false },
     [xi.item.TARUTARU_SNARE          ] = {  30, 22, 13,  2,   1,   1,  1, false, 0, xi.questLog.NONE,       255, 0,  0, 0, 0,  0, false, 0, true,  1, 1000, xi.ki.NONE,           '', 0, true,  0, false },
 }
