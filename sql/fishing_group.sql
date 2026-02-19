@@ -858,11 +858,6 @@ INSERT INTO `fishing_group` VALUES (78,4474,100,115,3);    -- Gigant Squid
 INSERT INTO `fishing_group` VALUES (78,4482,950,500,15);   -- Nosteau Herring
 INSERT INTO `fishing_group` VALUES (78,4483,1000,500,15);  -- Tiger Cod
 INSERT INTO `fishing_group` VALUES (78,5128,850,290,7);    -- Cone Calamary
-INSERT INTO `fishing_group` VALUES (78,12316,500,260,5);   -- Fish Scale Shield
-INSERT INTO `fishing_group` VALUES (78,13454,800,300,9);   -- Copper Ring
-INSERT INTO `fishing_group` VALUES (78,13456,300,275,6);   -- Silver Ring
-INSERT INTO `fishing_group` VALUES (78,14117,500,300,9);   -- Rusty Leggings
-INSERT INTO `fishing_group` VALUES (78,14242,500,300,9);   -- Rusty Subligar
 
 -- Qufim Island, Southwest Seaside
 
@@ -872,10 +867,6 @@ INSERT INTO `fishing_group` VALUES (79,4403,1000,500,15);  -- Yellow Globe
 INSERT INTO `fishing_group` VALUES (79,4478,500,130,3);    -- Three Eyed Fish
 INSERT INTO `fishing_group` VALUES (79,4482,950,500,15);   -- Nosteau Herring
 INSERT INTO `fishing_group` VALUES (79,4483,1000,500,15);  -- Tiger Cod
-INSERT INTO `fishing_group` VALUES (79,13454,800,300,9);   -- Copper Ring
-INSERT INTO `fishing_group` VALUES (79,14117,500,300,9);   -- Rusty Leggings
-INSERT INTO `fishing_group` VALUES (79,14242,500,300,9);   -- Rusty Subligar
-INSERT INTO `fishing_group` VALUES (79,16537,60,10,2);     -- Mythril Sword
 
 -- Qufim Island, Other Seaside
 
@@ -884,9 +875,6 @@ INSERT INTO `fishing_group` VALUES (80,4399,650,275,6);    -- Bluetail
 INSERT INTO `fishing_group` VALUES (80,4403,1000,500,15);  -- Yellow Globe
 INSERT INTO `fishing_group` VALUES (80,4482,950,500,15);   -- Nosteau Herring
 INSERT INTO `fishing_group` VALUES (80,4483,1000,500,15);  -- Tiger Cod
-INSERT INTO `fishing_group` VALUES (80,13454,800,300,9);   -- Copper Ring
-INSERT INTO `fishing_group` VALUES (80,14117,500,300,9);   -- Rusty Leggings
-INSERT INTO `fishing_group` VALUES (80,14242,500,300,9);   -- Rusty Subligar
 
 -- The Boyahda Tree, Waterfall Basin
 
